@@ -6,7 +6,7 @@ A compact **2-layer custom development board** based on the **STM32F103C8T6 (ARM
 
 The board was designed as a simple hardware platform for embedded systems development, testing, and firmware experimentation, with a focus on essential communication interfaces.
 
-![STM32F103C8T6 Custom Development Board](https://github.com/KaisBergaoui/STM32F103C8T6_Custom_Dev_Board/blob/main/media/STM32_BluePill.png)
+![STM32F103C8T6 Custom Development Board](https://github.com/KaisBergaoui/STM32F103C8T6_Custom_Dev_Board/blob/main/media/STM32_BluePill_01.png)
 
 ---
 
